@@ -1,0 +1,15 @@
+E:\Savenkova_test\test_program\bin\Debug\net6.0\test_program.exe
+E:\Savenkova_test\test_program\bin\Debug\net6.0\test_program.deps.json
+E:\Savenkova_test\test_program\bin\Debug\net6.0\test_program.runtimeconfig.json
+E:\Savenkova_test\test_program\bin\Debug\net6.0\test_program.dll
+E:\Savenkova_test\test_program\bin\Debug\net6.0\test_program.pdb
+E:\Savenkova_test\test_program\obj\Debug\net6.0\test_program.csproj.AssemblyReference.cache
+E:\Savenkova_test\test_program\obj\Debug\net6.0\test_program.GeneratedMSBuildEditorConfig.editorconfig
+E:\Savenkova_test\test_program\obj\Debug\net6.0\test_program.AssemblyInfoInputs.cache
+E:\Savenkova_test\test_program\obj\Debug\net6.0\test_program.AssemblyInfo.cs
+E:\Savenkova_test\test_program\obj\Debug\net6.0\test_program.csproj.CoreCompileInputs.cache
+E:\Savenkova_test\test_program\obj\Debug\net6.0\test_program.dll
+E:\Savenkova_test\test_program\obj\Debug\net6.0\refint\test_program.dll
+E:\Savenkova_test\test_program\obj\Debug\net6.0\test_program.pdb
+E:\Savenkova_test\test_program\obj\Debug\net6.0\test_program.genruntimeconfig.cache
+E:\Savenkova_test\test_program\obj\Debug\net6.0\ref\test_program.dll
